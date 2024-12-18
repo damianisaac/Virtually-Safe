@@ -1,0 +1,17 @@
+langchain
+langchain-openai
+langchain-core
+langchain-community
+langchain-experimental
+python-dotenv
+pytube
+youtube-transcript-api
+wikipedia
+pypdf
+docx2txt
+unstructured
+sentence-transformers
+langchain-chroma
+langchain_huggingface
+chromadb
+streamlit
